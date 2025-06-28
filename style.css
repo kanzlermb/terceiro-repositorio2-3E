@@ -130,20 +130,25 @@ label {
     bottom: 30px;
 }
 
-.fraca {
+.fraca{
     width: 25%;
-    background-color: #e71b32;
-    
+    background-color: #E71832;
+}
 
+.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
+}
 
+.media {
+    background-color: #FAF408;
+    width: 50%;
+}
 
-
-
-
-
-
-
-
+.forte {
+    background-color: #00FF85;
+    width: 100%;
+}
 
 
 @media screen and (min-width: 768px) {
