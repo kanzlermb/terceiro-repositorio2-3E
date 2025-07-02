@@ -30,6 +30,7 @@ const letrasMinusculas = 'abcdefghijklmnopqrstuvwxyz';
 const numeros = '0123456789';
 const simbolos = '!@%*?';
 
-function geraSenha() {
+function geraSenha() {}
     let alfabeto = '';
-    if (checkbox)
+    if (checkbox[0] .checked) {
+       alfabeto = alfabeto + letrasMaiusculas
